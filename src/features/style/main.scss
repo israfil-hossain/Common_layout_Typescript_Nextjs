@@ -1,0 +1,20 @@
+// our theme overrides
+// edit this file to change theme variables. to know which variables
+// are available see material-light/_variables.scss file
+@import "fonts";
+@import "variables";
+
+// primereact setup
+// no need to change these
+@import "~primereact/resources/primereact.min.css";
+@import "~primeflex/primeflex.css";
+@import "primereact-sass-theme/themes/bootstrap4/bootstrap4-light/blue/theme.scss";
+
+// reset
+@import "reset";
+
+// our classes
+@import "icon-spin";
+@import "datatable";
+@import "navbar-fixed-menu";
+@import "main-sidebar";

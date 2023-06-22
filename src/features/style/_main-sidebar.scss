@@ -1,0 +1,15 @@
+.main-sidebar {
+  .without-items .p-panelmenu-content {
+    padding: 0px;
+  }
+
+  .p-panelmenu-header > a svg:not(.p-panelmenu-icon) {
+    margin-right: 0.5rem;
+    width: 1rem;
+    height: 1rem;
+  }
+
+  .p-menuitem-link svg {
+    margin-right: 0.5rem;
+  }
+}
